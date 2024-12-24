@@ -1,0 +1,6 @@
+2024-12-24T22:22:37.302Z info: Starting Vasco da Gama web scraper
+2024-12-24T22:22:37.310Z info: Connected to SQLite database
+2024-12-24T22:22:37.340Z info: Tables created or already exist
+2024-12-24T22:22:38.632Z error: Error scraping players: Request failed with status code 404
+2024-12-24T22:22:44.803Z error: Error scraping players: Request failed with status code 404
+2024-12-24T22:22:51.016Z error: Error scraping players: Request failed with status code 404
